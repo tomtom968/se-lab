@@ -14,6 +14,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
 
+  //kapott egy új változót az osztály
   private Random generator = new Random();
 
   public TorpedoStore(int numberOfTorpedos){
